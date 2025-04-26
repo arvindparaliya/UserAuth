@@ -9,7 +9,6 @@ A Java web application built using Servlet, JSP, MySQL, and Tomcat to handle use
 - Password hashing
 - Session Management
 - MVC Pattern
-- JSP + Bootstrap for UI
 
 <h3>Tech Stack </h3>
 
@@ -17,7 +16,6 @@ A Java web application built using Servlet, JSP, MySQL, and Tomcat to handle use
 - MySQL 8.4.4
 - Apache Tomcat 10
 - Eclipse IDE
-- Bootstrap (for UI)
 
 <h3>Setup Instructions</h3>
 
