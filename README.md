@@ -1,4 +1,4 @@
-# UserAuthWebApp
+# UserAuth
 
 A Java web application built using Servlet, JSP, MySQL, and Tomcat to handle user registration, login, profile management, and session handling.
 
@@ -24,7 +24,7 @@ A Java web application built using Servlet, JSP, MySQL, and Tomcat to handle use
 ## Setup Instructions
 
 1. Clone the repository:  
-   `git clone https://github.com/arvindparaliya/UserAuthWebApp.git`
+   `git clone https://github.com/arvindparaliya/UserAuth.git`
 
 2. Import the project into Eclipse as a **Dynamic Web Project**.
 
